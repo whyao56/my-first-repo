@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 to do git - version master
+=======
+to do git -  version A
+>>>>>>> branch-a
 buy milk
 practice diff
